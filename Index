@@ -1,3 +1,3 @@
-This project is a twist on the hackpad project by hackclub, the original objective is to design a macropad using the given tutorials and with this design a macropad and get the pieces shiped to you. 
-The crucial change I´m doing is that insted of making a macropad I´m going to be making a MIDI keyboard similar for example to the korg nanokey fold which O see too expensive to justify outright buying.
-The objectives I will try to match is for my project to be foldable, use low profile keyboard switches and be compatible with any standar computer.
+This project which is my first entry to apply to the Hackclub 400$ grant is a MIDI keyboard based on the korg nanokey fold which I deem cool but overpriced or at least not worth it to just outright buy it, because of this I am making 
+NanoMidi a custom foldable MIDI keyboard that uses standard low profile keyboard switches and an ESP32 or similar board in order to be compact, useful and affordable.
+The objective for this project is to make it foldable just like the original was or at least separate into two different parts which can be joined at the moment of use to make it as compact as possible.
